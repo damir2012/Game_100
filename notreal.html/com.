@@ -1,0 +1,67 @@
+<!DOCTYPE html DOCUMENT!>
+<header style="background-color:lightblue:id="#start">
+  <p id="game"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fgrsH3Y_P7VcYbYBntOEaJujTm0cPjdTwQ&usqp=CAU">Какие игры мы делаем? Прайс лист</p>
+  <title>
+    <h2>Это не настоящий сайт!<h2>
+    <h1>Game 100</h1>
+    <h2>Студия разработки игр</h2>
+  </title>
+  <style>background:lightorange:font-family:sans-serif</style>
+  <main>
+        <h2 id="#game">Мы работаем в разных жанрах</h2>
+            <p>Хотите сделать игру по вашему сценарию? 
+                <br>У вас уже есть игра, которую нужно доработать для мобильных устройств или для продажи в другую страну?
+                <br>У нас можно заказать разработку или доработку игры. 
+                <br>Мы работаем в самых разных жанрах: шутеры, квесты, игры на логику и скорость.
+                <br>Также создаём игры смешанных жанров, игры развивающие полезные навыки: внимание, память, мышление.
+            </p>
+            <p>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/maps-and-location_0_1603391752.png" width="200px"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png" width="200px"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png" width="200px"/>
+            </p>
+            <h2>Процесс работы</h2>
+            <p>Создание игры — это всегда командная работа из нескольких этапов: 
+                <br>планирование сюжета, создание графических объектов, программирование, несколько этапов тестирования.
+                <br>Над игрой работают программист, дизайнер, сценарист, звукорежиссёр, редактор, переводчик и многие другие специалисты.
+            </p>
+            <p>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/creativity_0_1603392703.png" width="200px"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/discussion_0_1603392703.png" width="200px"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/game-development_0_1603392703.png" width="200px
+         <h2>ПРАЙС-ЛИСТ</h2>
+         <h5>цены не укаанные в прайс-листе-обсуждаются лично!<h5> 
+        <table>
+           <tr style="background-color:palegreen">
+              <td style="background-color:palegreen">Вид услуги</td>
+              <td style="background-color:palegreen">Обязательность</td>
+              <td style="background-color:palegreen">Цена</td>
+           </tr>
+           <tr style="background-color:palegreen">
+              <td style="background-color:palegreen">Программирование</td>
+              <td style="background-color:palegreen">Обязательно</td>
+              <td style="background-color:palegreen">до 380 тыс.руб.</td>
+           </tr>
+           <tr style="background-color:palegreen">
+              <td style="background-color:palegreen">Графика 2D и выше</td>
+              <td style="background-color:palegreen">Желательно потому,что привлекательно(3D и выше)</td>
+              <td style="background-color:palegreen">от 20 тыс.руб.</td>
+           </tr>
+           <tr style="background-color:palegreen">
+              <td style="background-color:palegreen">Графика (pixel)</td>
+              <td style="background-color:palegreen">Желательно (популярно но "Графика 2D и выше" лучше </td>
+              <td style="background-color:palegreen">Договорная цена</td>
+           <tr style="background-color:palegreen">
+              <td style="background-color:palegreen">Дополнение сюжета</td>
+              <td style="background-color:palegreen">Необязательно</td>
+              <td style="background-color:palegreen">Договорная цена</td>
+          </table>
+               <h5>Наши игры можно увидить даже на МЕЖДУНАРОДНЫХ турнирах!<h5>
+    </main>
+    <footer style="background-color:black">
+               <br style="background-color:white":id="start">Вернуться в начало</br>
+               <br style="background-color:white">Game_100</br>
+               <br style="background-color:white">2023 year(год)</br>
+               <a
+href="https://t.me/+vFKfNXzg8pdlZTJi":style="background-color:white">Telegram-канал</a>
+    </footer>                                                                                                                                </html>
